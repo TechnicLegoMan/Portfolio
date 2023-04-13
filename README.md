@@ -6,9 +6,8 @@
 ---
 
 ## 👦 Introdution
-👨‍💻 Game Client Programmer
-
-e-mail : roto219@naver.com
+ 👨‍💻 Game Client Programmer  
+ e-mail : roto219@naver.com
 ---
 
 ## 💼 Career 
