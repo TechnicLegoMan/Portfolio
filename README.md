@@ -3,6 +3,7 @@
 - [Introdution](#-introdution)
 - [Career](#-career)
 - [Skill & Tool](#-skill--tool)
+---
 
 ## 👦 Introdution
     👨‍💻 Game Client Programmer
