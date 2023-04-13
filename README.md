@@ -1,13 +1,14 @@
 # **Portfolio**
 ## **Index**
 - [👦 Introdution](#Introdution)
-- 💼 Career
-- 🛠 Skill & Tool
+- [💼 Career](#Career)
+- [🛠 Skill & Tool](#Skill-&-Tool)
 
 ## Introdution
 👨‍💻 Game Client Programmer
-### Profile
 ### Contact
-### Certificate
+📧 e-mail : roto219@naver.com
 
 ## Career 
+
+## Skill & Tool
