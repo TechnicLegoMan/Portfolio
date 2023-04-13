@@ -1,8 +1,8 @@
 # **Portfolio**
 ## **Index**
 - [Introdution](#Introdution)
-- [Career](#Career)
-- [🛠 Skill & Tool](#Skill-&-Tool)
+- [Career](#💼-Career)
+- [🛠 Skill & Tool](#Skill--Tool)
 
 ## 👦 Introdution
     👨‍💻 Game Client Programmer
