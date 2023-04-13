@@ -1,4 +1,4 @@
-VSCode 단축키
+VSCode Hotkey
 
 ## Git-Related Shortcuts in VSCode
 1. **Open the Source Control view**: `Ctrl+Shift+G` (Windows/Linux) or `Cmd+Shift+G` (Mac)
