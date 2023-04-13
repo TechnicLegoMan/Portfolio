@@ -1,7 +1,7 @@
 # **Portfolio**
 ## **Index**
 - [Introdution](#Introdution)
-- [Career](#💼Career)
+- [Career](#-career)
 - [🛠 Skill & Tool](#Skill--Tool)
 
 ## 👦 Introdution
